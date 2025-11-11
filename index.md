@@ -1,8 +1,9 @@
-# Roomie Match Manoa 
+# Roomie Match Manoa
+*A roommate matching web application for UH Mānoa students.*
 
 ## Table of Contents
 * [Overview](#overview)
-* [System Objectvies and Features](#system-objectives-and-features)
+* [System Objectives and Features](#system-objectives-and-features)
 
 ## Overview
 The goal of Roomie Match Manoa is to create a user-friendly web application that helps students at the University of Hawaiʻi at Mānoa connect with compatible roommates. The platform aims to simplify the process of finding suitable living arrangements by matching students based on shared preferences, lifestyle habits, and housing interests. By providing an accessible and secure environment for students to interact and form connections, Roomie Match Manoa seeks to improve the overall campus living experience and promote positive roommate relationships.
@@ -29,6 +30,6 @@ The web application will eventually provide the following functionalities:
 1. **Responsive and Accessible Design**
    - The platform is optimized for both desktop and mobile use.
    - Accessibility features ensure inclusivity for all students.
-3. **Chatbot Assistant**
+1. **Chatbot Assistant**
    - An integrated chatbot will guide users through profile setup and matching.
    - The chatbot will answer FAQs and help users navigate the platform efficiently.
