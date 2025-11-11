@@ -8,9 +8,25 @@ The goal of Roomie Match Manoa is to create a user-friendly web application that
 ## System Objectvies and Features
 The web application will eventually provide the following functionalities:
 
-1. **User Accounts and Profiles** – Students can create personal accounts using their university email and build detailed profiles.
-1. **Roommate Matching Algorithm** – The system will analyze user-inputted preferences and suggest compatible matches.
-1. **Search and Filter Options** – Users can browse or search for other students using filters.
-1. **Messaging and Connection Tools** – Users can communicate through a built-in messaging feature.
-1. **Privacy and Safety Controls** – Includes privacy settings for visibility and safe interactions.
-1. **Responsive and Accessible Design** – Works on both desktop and mobile
+1. **User Accounts and Profiles**
+   - Students can create personal accounts using their university email and build detailed profiles.
+   - Profiles include details such as major, interests, and lifestyle preferences.
+   - Users can update profiles at any time.
+1. **Roommate Matching Algorithm**
+   - The system will analyze user-inputted preferences and suggest compatible matches.
+     - Potential features the algorithm may take into account are: shared lifestyle preferences, study and sleep habits, major, etc.
+1. **Search and Filter Options**
+   - Users can search for roommates manually using filters such as major, housing type, or gender preference.
+   - Filtered results help users explore beyond automatic matches.
+1. **Messaging and Connection Tools**
+   - Once matched, users can communicate through an in-app chat feature.
+   - Connection requests and message notifications help users stay engaged.
+1. **Privacy and Safety Controls**
+   - Users can choose what personal details are visible to others.
+   - Moderation and reporting features ensure safe interactions.
+1. **Responsive and Accessible Design**
+   - The platform is optimized for both desktop and mobile use.
+   - Accessibility features ensure inclusivity for all students.
+3. **Chatbot Assistant**
+   - An integrated chatbot will guide users through profile setup and matching.
+   - The chatbot will answer FAQs and help users navigate the platform efficiently.
