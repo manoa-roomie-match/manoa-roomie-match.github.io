@@ -1,6 +1,9 @@
 # Roomie Match Manoa
 *A roommate matching web application for UH Mānoa students.*
 
+### **Team Documents**
+* [Team Contract](https://docs.google.com/document/d/1kkM3fMJxmjPPykiLTiCI3KJwdg8U3S4DGavawSSr35Y/edit?usp=sharing)
+
 ## Table of Contents
 * [Overview](#overview)
 * [System Objectives and Features](#system-objectives-and-features)
