@@ -33,3 +33,17 @@ The web application will eventually provide the following functionalities:
 1. **Chatbot Assistant**
    - An integrated chatbot will guide users through profile setup and matching.
    - The chatbot will answer FAQs and help users navigate the platform efficiently.
+
+## Mockup Pages
+
+![landing page](./images/landing.jpg)
+Landing page for application.
+
+![matching page](./images/match.jpg)
+Matching page to find roomates. Matching algorithm used to find the most compatible matches, with public biographies displaying roommate information.
+
+![edit profile](./images/edit_profile.jpg)
+Edit profile page. Students can change their bio based on personality traits.
+
+![search page](./images/search.jpg)
+Search page. Students can search for other roomates based on quailities.
