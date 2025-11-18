@@ -3,6 +3,10 @@
 
 ## Team Documents
 * [Team Contract](https://docs.google.com/document/d/1kkM3fMJxmjPPykiLTiCI3KJwdg8U3S4DGavawSSr35Y/edit?usp=sharing)
+* [GitHub Organization](https://github.com/manoa-roomie-match)
+* [Deployment](ADD LINK HERE)
+* [M1 Project Issues](https://github.com/orgs/manoa-roomie-match/projects/1/views/1)
+* [M2 Project Issues](https://github.com/orgs/manoa-roomie-match/projects/2/views/1)
 
 ## Table of Contents
 * [Overview](#overview)
@@ -50,3 +54,4 @@ Edit profile page. Students can change their bio based on personality traits.
 
 ![search page](./images/search.jpg)
 Search page. Students can search for other roomates based on quailities.
+
