@@ -4,7 +4,7 @@
 ## Team Documents
 * [Team Contract](https://docs.google.com/document/d/1kkM3fMJxmjPPykiLTiCI3KJwdg8U3S4DGavawSSr35Y/edit?usp=sharing)
 * [GitHub Organization](https://github.com/manoa-roomie-match)
-* [Deployment](ADD LINK HERE)
+* [Deployment](https://roomie-app-black.vercel.app/)
 * [M1 Project Issues](https://github.com/orgs/manoa-roomie-match/projects/1/views/1)
 * [M2 Project Issues](https://github.com/orgs/manoa-roomie-match/projects/2/views/1)
 
