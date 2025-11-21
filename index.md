@@ -7,6 +7,7 @@
 * [Deployment](https://roomie-app-black.vercel.app/)
 * [M1 Project Issues](https://github.com/orgs/manoa-roomie-match/projects/1/views/1)
 * [M2 Project Issues](https://github.com/orgs/manoa-roomie-match/projects/2/views/1)
+* [Team Risk Management](https://docs.google.com/document/d/1nVvITUlGXda6MPxVYiWW8BTZ6w7ttYSeM-djZiJQI1I/edit?usp=sharing)
 
 ## Table of Contents
 * [Overview](#overview)
