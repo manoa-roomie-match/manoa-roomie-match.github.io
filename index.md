@@ -1,3 +1,5 @@
+![ci-badge](https://github.com/manoa-roomie-match/roomie-app/actions/workflows/ci.yml/badge.svg)
+
 # Roomie Match Manoa
 *A roommate matching web application for UH Mānoa students.*
 
