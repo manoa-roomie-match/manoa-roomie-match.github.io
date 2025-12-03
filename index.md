@@ -125,6 +125,16 @@ Notes: Profile creation and editing require you to be signed in.
 
 ---
 
+### Home (/)
+
+- What you see: An updated home page after being logged in.
+- What you can do: View matches, messages, and your profile.
+- Screenshot:
+
+![Messaging Screenshot](/screenshots/logged-in-home.png)
+
+---
+
 ### My Profile (/user-profile)
 
 - What you see: Your profile card with picture, name, major, email, bio, completeness progress bar, cleanliness and noise ratings, and hobbies badges.
@@ -147,23 +157,13 @@ Tips: If your profile is incomplete you'll see a badge and a prompt to complete 
 
 ---
 
-### Matching (/matching)
+### Messaging (/messages)
 
-- What you see: Matching information and explanation (placeholder image currently).
-- What you can do: Learn about how the matching system works. In future releases this page may show personalized match recommendations.
+- What you see: A list of pending messages and previously sent messages.
+- What you can do: View your pending messages and message users back.
 - Screenshot:
 
-![Matching Screenshot](/screenshots/matching.png)
-
----
-
-### Search (/search)
-
-- What you see: Search page with UI for filtering roommates (currently an image placeholder).
-- What you can do: Intended to filter and find potential roommates by criteria (major, cleanliness, noise levels, etc.).
-- Screenshot:
-
-![Search Screenshot](/screenshots/search.png)
+![Messaging Screenshot](/screenshots/messaging.png)
 
 ---
 
@@ -171,9 +171,6 @@ Tips: If your profile is incomplete you'll see a badge and a prompt to complete 
 
 - What you see: Admin-only listing of all 'stuff' and all users (email, role).
 - What you can do: If you have admin privileges, review and manage items and user accounts.
-- Screenshot:
-
-![Admin Page Screenshot](/screenshots/admin.png)
 
 Notes: Admin pages are protected — contact the site administrator if you believe you should have access.
 
