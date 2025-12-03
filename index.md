@@ -61,7 +61,7 @@ Base URL: `[http://localhost:3000](https://roomie-app-black.vercel.app)`.
 - What you can do: From the home page you can sign up (`/auth/signup`) or learn more. If already signed in you'll see shortcuts to your profile, matches, and messages.
 - Screenshot:
 
-![Home Page Screenshot](/screenshots/home.png)
+![Home Page Screenshot](/images/home.png)
 
 Short description: Use the Home page to get started — register or sign in, and follow links to create your profile or view matches.
 
@@ -73,7 +73,7 @@ Short description: Use the Home page to get started — register or sign in, and
 - What you can do: Create a new account (UH email recommended), which will sign you in and redirect to the Add page. Validation is enforced on required fields and password length.
 - Screenshot:
 
-![Sign Up Screenshot](/screenshots/signup.png)
+![Sign Up Screenshot](/images/signup.png)
 
 Steps:
 - Enter your UH email and a password.
@@ -87,7 +87,7 @@ Steps:
 - What you can do: Sign in to your account. After successful sign-in you'll be redirected to the home page or a configured callback URL.
 - Screenshot:
 
-![Sign In Screenshot](/screenshots/signin.png)
+![Sign In Screenshot](/images/signin.png)
 
 Notes: If you do not have an account, use the link to the Sign Up page.
 
@@ -99,7 +99,7 @@ Notes: If you do not have an account, use the link to the Sign Up page.
 - What you can do: Confirm sign out (returns to home) or cancel.
 - Screenshot:
 
-![Sign Out Screenshot](/screenshots/signout.png)
+![Sign Out Screenshot](/images/signout.png)
 
 ---
 
@@ -109,7 +109,7 @@ Notes: If you do not have an account, use the link to the Sign Up page.
 - What you can do: Update your password. Client-side validation is provided and a success message displays on completion.
 - Screenshot:
 
-![Change Password Screenshot](/screenshots/change-password.png)
+![Change Password Screenshot](/images/change-password.png)
 
 ---
 
@@ -119,7 +119,7 @@ Notes: If you do not have an account, use the link to the Sign Up page.
 - What you can do: Access the UI to create or edit your profile. (The edit page primarily links to the profile-edit flow; profile data is saved via the API.)
 - Screenshot:
 
-![Create Profile Screenshot](/screenshots/create-profile.png)
+![Create Profile Screenshot](/images/create-profile.png)
 
 Notes: Profile creation and editing require you to be signed in.
 
@@ -131,7 +131,7 @@ Notes: Profile creation and editing require you to be signed in.
 - What you can do: View matches, messages, and your profile.
 - Screenshot:
 
-![Messaging Screenshot](/screenshots/logged-in-home.png)
+![Messaging Screenshot](/images/logged-in-home.png)
 
 ---
 
@@ -141,7 +141,7 @@ Notes: Profile creation and editing require you to be signed in.
 - What you can do: View your profile details, see profile completeness, and click the **Edit Profile** button to update information.
 - Screenshot:
 
-![User Profile Screenshot](/screenshots/user-profile.png)
+![User Profile Screenshot](/images/user-profile.png)
 
 Tips: If your profile is incomplete you'll see a badge and a prompt to complete it.
 
@@ -153,7 +153,7 @@ Tips: If your profile is incomplete you'll see a badge and a prompt to complete 
 - What you can do: Browse other students, view basic details, and use provided actions to contact or match (where available).
 - Screenshot:
 
-![View Roommates Screenshot](/screenshots/view-roommates.png)
+![View Roommates Screenshot](/images/view-roommates.png)
 
 ---
 
@@ -163,7 +163,7 @@ Tips: If your profile is incomplete you'll see a badge and a prompt to complete 
 - What you can do: View your pending messages and message users back.
 - Screenshot:
 
-![Messaging Screenshot](/screenshots/messaging.png)
+![Messaging Screenshot](/images/messaging.png)
 
 ---
 
