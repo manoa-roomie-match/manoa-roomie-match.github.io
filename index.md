@@ -16,6 +16,7 @@
 * [Overview](#overview)
 * [System Objectives and Features](#system-objectives-and-features)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Developer Guide](#dev-guide)
 
 ## Overview
@@ -198,6 +199,14 @@ Notes: Admin pages are protected — contact the site administrator if you belie
 	- Steps to reproduce
 	- Browser and OS details
 	- (Optional) Screenshot showing the issue
+
+---
+
+## Community Feedback
+
+The overwhelming feedback we recieved from having 5 community members try our website was that the matching felt off. They thought that it either didn't have enough criteria, they didn't feel it would work, or that they would rather scroll through the list of users to find it themselves. That is why we implemented a more thorough matching system. After this implementation, we had users re-test our website and they told us that it felt much more smooth.
+
+Other (positive) comments we received was that the color palatte felt representative of UHM. Additionally, users appreciated the profile picture section, as it helped put faces to names. Finally, all but one user liked the page layout; The one user that didn't got hung up on navigating between pages once they had signed in and thought it should be reorganized. We took that into consideration and implemented minor fixes, but kept the high-level layout the same.
 
 ---
 
